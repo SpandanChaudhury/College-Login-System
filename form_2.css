@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    color:cadetblue;
+    padding-top: 50px;
+}
+form{
+    color:cadetblue;
+}
+span{
+    color: red;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    font-family:'Times New Roman', Times, serif;
+    background-color: paleturquoise;
+}
+#academic-div p{
+    background-color: seashell;
+    text-align: center;
+}
+.modal-dialog{
+    background-color: dimgray;
+}
